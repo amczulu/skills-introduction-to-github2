@@ -9,15 +9,15 @@
 
 # Introduction to PYTHON 5A
 
-#About me
+# About me
 
 blah
 
-#Goals for this course
+# Goals for this course
 
 blah
 
-#Code box
+# Code box
 
 `print("Hello World"`
 
