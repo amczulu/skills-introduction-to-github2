@@ -9,6 +9,18 @@
 
 # Introduction to PYTHON 5A
 
+#About me
+
+blah
+
+#Goals for this course
+
+blah
+
+#Code box
+
+`print("Hello World"`
+
 _Get started using GitHub in less than an hour._
 
 </header>
